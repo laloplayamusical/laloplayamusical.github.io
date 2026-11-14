@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laloplayamusical.github.io/sitemap.xml
