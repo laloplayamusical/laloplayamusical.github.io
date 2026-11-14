@@ -45,7 +45,7 @@ PAGES = [
      "rRnYZTIVOD8", "¡Lavamos las manitas! (Hand-washing song)"),
     ("thank-you", "Say Thank You", "¡Gracias, Abuela!",
      "Lalo says thank you to Abuela Tortuga. Practice the magic words: por favor y gracias.",
-     "", ""),
+     "Uc_67IsK3E0", "Las palabras mágicas: Por favor y gracias (Magic words song)"),
     ("feelings", "Feelings Faces", "¿Cómo te sientes?",
      "Happy, sad, mad or scared? Color the feelings faces and name each emotion in Spanish and English.",
      "", ""),
